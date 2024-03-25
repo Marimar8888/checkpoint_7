@@ -546,7 +546,6 @@ var seats = {
 seats.enoughSeats()
 ```
 
-
 ## Bibliografía
 
 ### Diferencias entre JavaScript y otros lenguajes de programación:
